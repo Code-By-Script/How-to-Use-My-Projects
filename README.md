@@ -1,5 +1,9 @@
 ## 📥 How to Use My Projects 
 
+### 📺 Video Guide 🎥
+If you prefer visual guidance, check out my video tutorial on setting up and running the project! 
+- **Coming Soon!** Stay tuned for the link. 
+
 ### 🎉 Here’s how to **download**, **open**, and **run** them in your own **Visual Studio** or **Visual Studio Code**! 🚀✨
 
 ### 📂 Step 1: Download the Project 
