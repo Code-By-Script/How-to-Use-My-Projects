@@ -116,7 +116,7 @@ Stay connected for more updates, tutorials, and tips:
 
 ## 🙏 Thank you for reading my 📥 How to Use My Projects! 
 
-I hope this guide made it easy for you to navigate and utilize my projects. If you need help with installing the necessary IDEs or any prerequisites, feel free to check out my dedicated installation guide [here](https://github.com/Code-By-Script/How-to-Install-Microsoft-Visual-Studio-Code). 
+I hope this guide made it easy for you to navigate and utilize my projects. If you need help with installing the necessary IDEs or any prerequisites, feel free to check out my dedicated installation guide [here](https://github.com/stars/Code-By-Script/lists/usage-guides). 
 
 Don't forget to share your feedback, and stay tuned for more exciting content! 🚀✨
 
