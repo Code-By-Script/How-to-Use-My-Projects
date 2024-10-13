@@ -12,7 +12,7 @@ If you prefer visual guidance, check out my video tutorial on setting up and run
 If you don’t have an IDE installed yet, you can choose one from the following options:
 
 ### 🌐 Choose an IDE
-- You can use either [Visual Studio](https://github.com/Code-By-Script/How-to-Install-Microsoft-Visual-Studio) or [Visual Studio Code](https://github.com/Code-By-Script/How-to-Install-Visual-Studio-Code). 
+- You can use either [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/). 
   - **Visual Studio**: A full-featured IDE suitable for larger projects, particularly for C# and .NET development.
   - **Visual Studio Code**: A lightweight, versatile code editor that supports multiple programming languages and extensions. 🖥️
 
@@ -21,10 +21,10 @@ If you don’t have an IDE installed yet, you can choose one from the following 
 - Follow the installation instructions specific to your operating system (Windows, macOS, or Linux).
 
 #### 🔗 Installation Guides:
-- **[Visual Studio Installation Guide](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022)**  
+- **[Visual Studio Installation Guide](https://github.com/Code-By-Script/How-to-Install-Microsoft-Visual-Studio)**  
   This guide walks you through the steps to install Visual Studio on your machine.
 
-- **[Visual Studio Code Installation Guide](https://code.visualstudio.com/docs/setup/setup-overview)**  
+- **[Visual Studio Code Installation Guide](https://github.com/Code-By-Script/How-to-Install-Visual-Studio-Code)**  
   This guide provides detailed instructions for installing Visual Studio Code on various operating systems.
 
 
