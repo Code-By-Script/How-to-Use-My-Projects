@@ -79,10 +79,37 @@ If you prefer visual guidance, check out my video tutorial on setting up and run
    - 📜 Follow the prompts in the console window. 
    - 🚀 The application will guide you through its features.
 
-4. **Explore Further**:
-   - ✏️ Feel free to modify the code to enhance your understanding and explore different functionalities. ✏
-   - 📚 Refer to the [C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/) 📚 for more information on C# programming concepts.
+## 💻 **Social Media**
 
-## 📖 Additional Resources 🌟
+Stay connected for more updates, tutorials, and tips:
+## <h3> 🌐 Fruit Switch Social Media: </h3>      
+| **🎮Steam** | **🐦Twitter** | **📺YouTube** |
+|-----------|-------------|--------------|
+| [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitchTeam) | 
+## 📚 Code-By-Script Tutorials:
+| **Youtube** | 
+|-----------|
+ [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) | 
+---
 
-For more guides and examples, you can check out this repository: [CSharp Console Application Examples](https://github.com/anotherusername/AnotherRepository). 🔗
+## 📝 **Thank You for Reading!**
+
+🙏 **Thank you for reading my Visual Studio installation guide!** I hope this guide made your installation experience smooth and fun. With the .NET Desktop Development workload installed, you're now fully prepared to follow along with all my tutorials and projects. Don't forget to share your feedback, and stay tuned for more cool content!
+
+**Happy Coding!** ✨💻🚀
+
+---
+
+## 🧑‍🏫 **More Resources & Tutorials**
+
+Check out these amazing resources for more information and advanced coding skills:
+
+If you're looking to deepen your understanding, here are some helpful resources you might find useful:
+
+- 🌟 [Official Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/)
+- 📚 [My Coding Tutorials on YouTube](https://www.youtube.com/@CodeByScript)
+- 🚀 [Explore My Projects Here!](https://github.com/Code-By-Script?tab=stars)  
+
+Feel free to explore these if you're interested! 😊
+
+---
